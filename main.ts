@@ -1,11 +1,12 @@
 // news-image-20261117 entry (Node 22, standard library only).
 //
 // The image beside this file sums up Tuesday 17 November 2026 in one
-// picture: a light newspaper front page with a dated masthead, the three
+// picture: a dense newspaper front page with a dated masthead, the three
 // biggest stories (Nvidia's earnings beat, the U.S. strikes on Qeshm and the
 // Hormuz tanker mines, the fourth straight day of market losses), eight more
-// numbered stories from five continents, a world map, and nine one-line
-// briefs — 20 stories in all, every one reported on 17 November 2026.
+// numbered stories, a world map with numbered pins, and 24 one-line
+// briefs — 35 stories in all, reported 15–17 November 2026 and led by
+// Tuesday's news.
 //
 // The program copies that image to /output/entry.png (or to
 // $MAKEFUN_OUTPUT_DIR when set, for local runs). It reads nothing else and
